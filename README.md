@@ -8,7 +8,7 @@ This mortgage payments calculator allows users to input various parameters such 
 
 ## How to Use
 
-1. Visit the web app hosted [here](https://your-web-app-url).
+1. Visit the web app hosted [here](https://mortgage-loan-calculator-b83cyzfhphtrbvzgd5mb9x.streamlit.app/).
 2. Input the required parameters:
    - Home value: The total value of the property you intend to purchase.
    - Deposit: The initial payment made towards the home purchase.
