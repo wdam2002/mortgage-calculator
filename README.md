@@ -19,9 +19,8 @@ This mortgage payments calculator allows users to input various parameters such 
 
 ## Technologies Used
 
-- [Streamlit](https://streamlit.io/): For building and deploying the web application.
+- [Streamlit](https://streamlit.io/): For building, creating visualizations, and deploying the web application.
 - [Pandas](https://pandas.pydata.org/): For data manipulation and analysis.
-- [Matplotlib](https://matplotlib.org/): For creating visualizations.
 
 ## Running the App Locally
 
@@ -36,4 +35,4 @@ To run this Streamlit app locally, follow these steps:
    ```pip install -r requirements.txt```
 
 3. Run the Streamlit app:
-   ```streamlit run app.py```
+   ```streamlit run mortgage_calculator.py```
