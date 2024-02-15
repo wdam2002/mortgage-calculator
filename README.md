@@ -32,7 +32,7 @@ To run this Streamlit app locally, follow these steps:
    git clone https://github.com/wdam2002/mortgage-payments-calculator.git
 
 2. Install the required dependencies:
-   ```pip install -r requirements.txt```
+   ```pip install streamlit```
 
 3. Run the Streamlit app:
    ```streamlit run mortgage_calculator.py```
